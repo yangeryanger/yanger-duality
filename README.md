@@ -3,8 +3,15 @@ An attempt to module Daggerheart duality dice rolls into d&amp;d5e via module. C
 
 ## License
 
-This module is an ORC Licensed Work.
+**SPDX-License-Identifier: ORC-1.0**
 
-It incorporates mechanics and terminology from the **Daggerheart SRD**, which is licensed under the **Open RPG Creative (ORC) License**.
+This module is distributed under the **Open RPG Creative License (ORC License)**.
 
-See the [LICENSE](./LICENSE) file for full details.
+It incorporates mechanics and terminology from the **Daggerheart System Reference Document (SRD)**,  
+which is © Darrington Press and licensed under the ORC License.
+
+Accordingly, this module is an **ORC Licensed Work**.
+
+- Full license text: see [`LICENSE`](./LICENSE)  
+- Attribution notices: see [`NOTICE`](./NOTICE)
+![License: ORC](https://img.shields.io/badge/License-ORC-blue)
