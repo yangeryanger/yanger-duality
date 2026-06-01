@@ -12,8 +12,8 @@ which is © Darrington Press and licensed under the ORC License.
 
 Accordingly, this module is an **ORC Licensed Work**.
 
-- Full license text: see [`LICENSE`](./LICENSE)  
-- Attribution notices: see [`NOTICE`](./NOTICE)
+- Full license text: see [`LICENSE.md`](./LICENSE.md)  
+- Attribution notices: see [`NOTICE.md`](./NOTICE.md)
 
 
 ![License: ORC](https://img.shields.io/badge/License-ORC-blue)
